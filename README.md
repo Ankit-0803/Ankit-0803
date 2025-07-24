@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Ankit-0803.png" width="150" style="border-radius: 50%;" alt="Ankit Kushwaha's Profile Picture"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ankit Kushwaha</h1>
 <h3 align="center">Passionate Software Developer | ML Enthusiast | Competitive Programmer</h3>
 
@@ -5,7 +9,7 @@
 
 -  I’m currently working on:  
   - **Rent-a-Rover** — A modern car rental web application  
-  - **Smart Fleet** — Intelligent vehicle fleet management system  
+  - **Smart Fleet** — Intelligent robot fleet management system  
 
 -  I’m currently learning:  
   **DevOps (Docker, CI/CD, AWS)** and **Advanced ML**
@@ -14,7 +18,7 @@
   **Open-source ML & Web projects**
 
 -  I’m open to internship/job opportunities in:  
-  **Software Development/ Full Stack Development / MLOps / Backend Engineering**
+  **Software Development/ Full Stack Development / Backend Engineering**
 
 - 📫 How to reach me:  
   📧 ankitk.works4@gmail.com  
@@ -24,7 +28,7 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
+<!--**Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
@@ -45,7 +49,23 @@
 **DevOps / Cloud:**  
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)  
-![CI/CD](https://img.shields.io/badge/-CI--CD-black?style=flat-square&logo=githubactions)
+![CI/CD](https://img.shields.io/badge/-CI--CD-black?style=flat-square&logo=githubactions) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-black?style=flat-square&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/CI--CD-black?style=flat-square&logo=githubactions" />
+</p>
+
 
 ---
 
