@@ -2,7 +2,7 @@
   <img src="https://github.com/Ankit-0803.png" width="150" style="border-radius: 50%;" alt="Ankit Kushwaha's Profile Picture"/>
 </p>-->
 
-<h1 align="center">Hi 👋, I'm Ankit Kushwaha</h1>
+<h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">Passionate Software Developer | ML Enthusiast | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-0803&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-0803" /> </p>
