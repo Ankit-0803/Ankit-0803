@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/Ankit-0803.png" width="150" style="border-radius: 50%;" alt="Ankit Kushwaha's Profile Picture"/>
-</p>
+</p>-->
 
 <h1 align="center">Hi 👋, I'm Ankit Kushwaha</h1>
 <h3 align="center">Passionate Software Developer | ML Enthusiast | Competitive Programmer</h3>
