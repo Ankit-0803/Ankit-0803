@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ankit Kushwaha</h1>
-<h3 align="center">Passionate Full Stack Developer | ML Enthusiast | Competitive Programmer</h3>
+<h3 align="center">Passionate Software Developer | ML Enthusiast | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-0803&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-0803" /> </p>
 
-- 🔭 I’m currently working on:  
+-  I’m currently working on:  
   - **Rent-a-Rover** — A modern car rental web application  
   - **Smart Fleet** — Intelligent vehicle fleet management system  
 
-- 🌱 I’m currently learning:  
+-  I’m currently learning:  
   **DevOps (Docker, CI/CD, AWS)** and **Advanced ML**
 
-- 👯 I’m looking to collaborate on:  
+-  I’m looking to collaborate on:  
   **Open-source ML & Web projects**
 
-- 🤝 I’m open to internship/job opportunities in:  
-  **Full Stack Development / MLOps / Backend Engineering**
+-  I’m open to internship/job opportunities in:  
+  **Software Development/ Full Stack Development / MLOps / Backend Engineering**
 
 - 📫 How to reach me:  
   📧 ankitk.works4@gmail.com  
